@@ -35,7 +35,7 @@ python blockchains.py 5001
 
 ### Postman
 1. **Buka Postman**:
-   - Export file **Blockchain.postman_collection.json**.
+   - Import file **Blockchain.postman_collection.json**.
 
 2. **Testing Blockchain**:
    - Buka folder **Blockchain** di Postman.
