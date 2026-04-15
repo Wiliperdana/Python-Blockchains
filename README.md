@@ -14,9 +14,9 @@ This project is a basic implementation of a cryptocurrency blockchain using Pyth
 
 1.  **Clone the repository and create a virtual environment:**
     ```bash
-    git clone <repository-url>
-    cd <repository-name>
-    python3 -m venv .venv
+    git clone https://github.com/Wiliperdana/Python-Blockchain.git
+    cd Python-Blockchain
+    python -m venv .venv
     source .venv/bin/activate
     ```
 
